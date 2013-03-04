@@ -33,7 +33,7 @@
 
 /**
  * Main class to handle webkit audio
- * 
+ *
  * TODO make the clip detector from http://www.html5rocks.com/en/tutorials/webaudio/games/
  *
  * @class Handle webkit audio API
